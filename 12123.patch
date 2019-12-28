@@ -1,0 +1,16 @@
+Index: JS班级/事件方式/211.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- JS班级/事件方式/211.html	(revision 503618c64a467c72c0b558707cd2cb39462cc484)
++++ JS班级/事件方式/211.html	(revision 9851202f242bfec3b62c908f5ffc4b54bbcadec2)
+@@ -5,6 +5,7 @@
+     <title>Title</title>
+ </head>
+ <body>
++12312
+ 
+ </body>
+ </html>
+\ No newline at end of file
